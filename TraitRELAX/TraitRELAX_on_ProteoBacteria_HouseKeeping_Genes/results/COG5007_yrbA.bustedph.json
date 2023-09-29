@@ -1,0 +1,896 @@
+{
+ "Evidence Ratios":{
+  },
+ "Site Log Likelihood":{
+   "unconstrained":    [
+[-24.06253492502786, -19.8556609232618, -29.95694712416786, -31.31044578581692, -80.31101902312918, -108.60019695605, -111.1069197554638, -73.27859123796998, -58.57581508500631, -60.56966181552809, -144.747318313314, -76.57865815828933, -69.34665183884167, -64.89065808988276, -143.9757016298739, -114.2559097817025, -71.81656205501054, -131.7875797543688, -88.15183724025194, -111.0019855418066, -68.98978202195772, -110.3993734965537, -79.13998142988923, -74.75362178927016, -142.2477989177155, -99.29122470041797, -69.43882905409714, -80.07038332620158, -74.69349562644919, -47.6934586587441, -67.88011963977445, -68.64632118963553, -73.03111573121035, -80.83110425009328, -113.5756193176634, -73.66733691796171, -86.24322855327216, -89.17026488893372, -130.0299836529218, -44.23167882251202, -128.3920024370961, -135.1281989673844, -79.58403672677713, -74.65402942476045, -110.7906537124497, -108.178258587256, -67.8929586319109, -91.97323173432605, -43.67386149192608, -49.3532505301671, -142.5775870334622, -85.99303928350548, -39.73545733596841, -112.7180863529397, -72.51137159554612, -70.51802283637208, -61.15457065643191, -91.58380921944743, -92.81703266765786, -59.07796899264311, -111.4129409879592, -78.4593193003162, -82.88024390214002, -113.2391152481832, -59.76811701002211, -44.59570509063968, -71.37763311803056, -114.8945004807312, -91.27904522922969, -61.5539989194959, -71.01057972689449, -116.7095023806643, -77.73911088964489, -80.12947859009434, -104.8678537707904, -119.9109241193128, -63.44677148492808, -16.48795375787633, -112.7736065774914, -94.11468128035067, -88.96309558874671, -83.83638016333124, -59.87557035049598, -97.17109225064242, -84.38790226621231, -83.4153630128552, -78.76482452936196] 
+    ]
+  },
+ "Synonymous site-posteriors":  [
+[0.2678500649628985, 0.2024445228225627, 0.8003972424853233, 0.003996081480528938, 0.9533014954528451, 0.9656348185926366, 0.7162586159371989, 0.08327778808759639, 0.01840952642591831, 0.009448574004810856, 0.01605852129902678, 0.009632448235786562, 2.643504482380462e-05, 0.4403241323469846, 6.305849019602207e-05, 0.9757029243629982, 0.007281224793484892, 0.9170864951483759, 0.2692961247146119, 0.3017677827282755, 0.02082415992211889, 0.7497402018091766, 0.8403663582371598, 0.02196937126368465, 0.6818783454823611, 0.8854566513177916, 0.1280335621444715, 0.01107690401162762, 0.165452544987186, 0.001926960007657535, 0.6645384388672723, 0.233224378270142, 0.1912753899595701, 0.5735426849381627, 0.9960983503377555, 0.06482655599736553, 0.635683321411617, 0.9902068841818242, 0.0747155676043444, 0.004561427383210807, 0.5510314076730605, 0.441289097528355, 0.9923978119783703, 0.04647642504217161, 0.9950221725827134, 0.9799144240935553, 0.8582813138787583, 0.9666336496127135, 0.0002373347630932821, 0.0008103391957578264, 0.007312278639059267, 0.2068705545763738, 0.004553498909999633, 0.9959730769754436, 0.001015222618786075, 0.0001286644581233386, 0.7559464460720813, 0.9878498793188701, 0.6679993090194853, 0.00439970731646552, 0.9906178433384556, 0.9396726516611444, 0.7546007486220951, 0.9990862466191178, 0.004362745485481446, 0.004014603352931534, 0.001148718892005899, 0.9951675506549544, 0.3056469892786055, 0.00105907444233339, 0.9787850932356515, 0.9531815760596386, 0.9202307450244692, 0.002270760918889793, 0.9945038428038032, 0.920938051992784, 0.3288355178686623, 0.002493836299572675, 0.9186403307196229, 0.8680516602072402, 0.9453732092270715, 0.05060800375422805, 0.5820872177383172, 0.9948632183154963, 0.9903494737878743, 0.9934386290376143, 0.3019118975879446],
+  [0.7236906122581149, 0.7942962587447636, 0.1337384534853991, 5.458904339281142e-09, 0.0005109505403941766, 0.03356297960965688, 0.2836275793621056, 3.913429214198843e-06, 1.72733311262493e-09, 1.225851450427232e-08, 0.9839414714422103, 9.940273644269358e-10, 2.994687512835538e-15, 0.0003523134088392451, 0.999936941509543, 0.0001061067798648108, 2.751418267148029e-11, 0.08290941496168332, 6.446130330498496e-08, 0.6982215641998231, 5.847097468722173e-08, 3.747752890698008e-05, 8.217030114701549e-05, 6.798122253576095e-09, 0.318076517090098, 3.119372241654883e-05, 4.017320693668111e-06, 1.133486179999385e-09, 2.048216695090426e-06, 6.172635450262577e-10, 7.881913564751077e-05, 5.184881738997361e-06, 1.391246450853908e-07, 1.440638350779873e-05, 0.0008421276864165112, 4.149908100430094e-08, 4.726691087388474e-07, 0.003295977952094909, 0.9252842229736404, 2.575843693935072e-09, 0.4489589706835383, 0.558696104113675, 0.001960710625180788, 1.729973853143787e-08, 3.9362043573725e-05, 0.01859227416196002, 0.0002340911602186095, 0.004688319895143153, 3.018077733299439e-11, 1.987640263479441e-10, 0.9926877210770942, 8.603154171127051e-07, 4.6848370067236e-08, 0.0007720185222709863, 2.086794866279529e-12, 3.607482314994682e-14, 0.000275292791803473, 0.007472032250282921, 0.3319243059154406, 5.641044327466162e-10, 0.0004605108860948914, 0.003136954219635443, 7.187796849489045e-05, 0.0004253132379952091, 2.889593506800507e-09, 3.857514783871196e-09, 3.139196727472943e-11, 0.001988162733364386, 8.893264569213422e-07, 2.08221128523675e-11, 0.002109617368497252, 0.0008882702388862352, 0.002483382868422734, 8.376710009019798e-11, 0.0008840339156233239, 0.07855767148478671, 9.096468725596284e-06, 7.178216589284317e-09, 0.0811565735084178, 3.075974409246509e-06, 0.05428035148317981, 5.987813258290721e-09, 8.926948296342586e-05, 0.004852791251785612, 0.003858535751658279, 0.006257161085669879, 0.6980586443153967],
+  [0.008459322778986417, 0.003259218432673748, 0.06586430402927757, 0.9960039130605667, 0.04618755400676069, 0.0008022017977064904, 0.0001138047006955256, 0.9167182984831894, 0.9815904718467487, 0.9905514137366745, 7.258762878404321e-09, 0.9903675507701862, 0.9999735649551733, 0.5593235542441762, 2.610444409520558e-13, 0.02419096885713699, 0.992718775179001, 4.08988994061038e-06, 0.7307038108240848, 1.065307190155192e-05, 0.9791757816069065, 0.2502223206619164, 0.1595514714616932, 0.9780306219381932, 4.51374275409326e-05, 0.1145121549597918, 0.8719624205348349, 0.9889230948548862, 0.8345454067961189, 0.998073039375079, 0.3353827419970801, 0.766770436848119, 0.8087244709157848, 0.4264429086783293, 0.003059521975827831, 0.9351734025035535, 0.3643162059192743, 0.006497137866080748, 2.094220151477478e-07, 0.9954385700409455, 9.621643401205725e-06, 1.479835797014468e-05, 0.005641477396448875, 0.9535235576580898, 0.004938465373712899, 0.001493301744484649, 0.1414845949610232, 0.02867803049214324, 0.999762665206726, 0.9991896606054781, 2.838464600528491e-10, 0.793128585108209, 0.9954464542416303, 0.00325490450228556, 0.9989847773791271, 0.9998713355418406, 0.2437782611361152, 0.004678088430846977, 7.638506507410344e-05, 0.99560029211943, 0.008921645775449403, 0.05719039411922005, 0.2453273734094098, 0.0004884401428869953, 0.995637251624925, 0.9959853927895538, 0.998851281076602, 0.002844286611681031, 0.6943521213949375, 0.9989409255368444, 0.0191052893958512, 0.0459301537014751, 0.07728587210710801, 0.9977292389973431, 0.004612123280573414, 0.0005042765224292826, 0.6711553856626121, 0.9975061565222109, 0.0002030957719591699, 0.1319452638183506, 0.0003464392897487379, 0.9493919902579587, 0.4178235127787194, 0.0002839904327180446, 0.005791990460467454, 0.0003042098767158715, 2.945809665900496e-05] 
+  ],
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond",
+   "citation":"*TBD*",
+   "contact":"spond@temple.edu",
+   "info":"BUSTED-PH (BUSTED-PHenotype) uses several random effects branch-site model fitted to subsets \nof tree branches that represent tree partitioning by discrete trait to identify evidence of positive diversifying selection \nassociated with the presence of the discrete trait. This is accomplished by fitting a BUSTED model to with separate rate distributions \nfor PH+/PH- branches, testing that (i) PH+ subset is under episodic diversifying selection, (ii) PH- is NOT under diversifying selection and (iii) PH+ and PH- have different distributions. Version 0.2 adds support for >1 labeled classes. \n",
+   "requirements":"in-frame codon alignment and a phylogenetic tree with exactly one non-trivial branch subset ({} format)",
+   "version":"0.2"
+  },
+ "background":1,
+ "branch attributes":{
+   "0":{
+     "ARSENOPHONUS_NASONIAE":{
+       "MG94xREV with separate rates for branch sets":0.2004512708568092,
+       "Nucleotide GTR":0.1867163903762107,
+       "original name":"ARSENOPHONUS_NASONIAE",
+       "unconstrained":0.3934514798204186
+      },
+     "BAUMANNIA_CICADELLINICOLA":{
+       "MG94xREV with separate rates for branch sets":0.2129199926385693,
+       "Nucleotide GTR":0.1423798443118621,
+       "original name":"BAUMANNIA_CICADELLINICOLA",
+       "unconstrained":0.4805301127833784
+      },
+     "BLOCHMANNIA_FLORIDANUS":{
+       "MG94xREV with separate rates for branch sets":0.3654591775143818,
+       "Nucleotide GTR":0.2723294475212764,
+       "original name":"BLOCHMANNIA_FLORIDANUS",
+       "unconstrained":0.7880746575276196
+      },
+     "BLOCHMANNIA_PENNSYLVANICUS":{
+       "MG94xREV with separate rates for branch sets":0.2646854174752604,
+       "Nucleotide GTR":0.2306875994254416,
+       "original name":"BLOCHMANNIA_PENNSYLVANICUS",
+       "unconstrained":0.4242256051883416
+      },
+     "BUCHNERA_APHIDICOLA_STR_APS":{
+       "MG94xREV with separate rates for branch sets":0.2850680891796836,
+       "Nucleotide GTR":0.2358129164455945,
+       "original name":"BUCHNERA_APHIDICOLA_STR_APS",
+       "unconstrained":0.5552480227378033
+      },
+     "BUCHNERA_APHIDICOLA_STR_BP":{
+       "MG94xREV with separate rates for branch sets":0.246027969262567,
+       "Nucleotide GTR":0.2464825120292952,
+       "original name":"BUCHNERA_APHIDICOLA_STR_BP",
+       "unconstrained":0.4500451259396341
+      },
+     "BUCHNERA_APHIDICOLA_STR_CC":{
+       "MG94xREV with separate rates for branch sets":0.5002166519806662,
+       "Nucleotide GTR":0.3701525507246708,
+       "original name":"BUCHNERA_APHIDICOLA_STR_CC",
+       "unconstrained":1.356042041096649
+      },
+     "BUCHNERA_APHIDICOLA_STR_SG":{
+       "MG94xREV with separate rates for branch sets":0.2062061132317014,
+       "Nucleotide GTR":0.1907524651593482,
+       "original name":"BUCHNERA_APHIDICOLA_STR_SG",
+       "unconstrained":0.3217559231037651
+      },
+     "CITROBACTER_KOSERI":{
+       "MG94xREV with separate rates for branch sets":0.06600409672968656,
+       "Nucleotide GTR":0.05765005222560814,
+       "original name":"CITROBACTER_KOSERI",
+       "unconstrained":0.07049695601963858
+      },
+     "CITROBACTER_RODENTIUM":{
+       "MG94xREV with separate rates for branch sets":0.05310202109429268,
+       "Nucleotide GTR":0.04684596232224961,
+       "original name":"CITROBACTER_RODENTIUM",
+       "unconstrained":0.05521116251196327
+      },
+     "CRONOBACTER_SAKAZAKII":{
+       "MG94xREV with separate rates for branch sets":0.002375508223518683,
+       "Nucleotide GTR":0.008474204540942483,
+       "original name":"CRONOBACTER_SAKAZAKII",
+       "unconstrained":0
+      },
+     "CRONOBACTER_TURICENSIS":{
+       "MG94xREV with separate rates for branch sets":0.02555702025562681,
+       "Nucleotide GTR":0.01909232483199925,
+       "original name":"CRONOBACTER_TURICENSIS",
+       "unconstrained":0.02870957209369971
+      },
+     "DICKEYA_DADANTII_ECH586":{
+       "MG94xREV with separate rates for branch sets":0.03062273462397166,
+       "Nucleotide GTR":0.02407384426952279,
+       "original name":"DICKEYA_DADANTII_ECH586",
+       "unconstrained":0.03148988852064959
+      },
+     "DICKEYA_DADANTII_ECH703":{
+       "MG94xREV with separate rates for branch sets":0.1253107908724434,
+       "Nucleotide GTR":0.09100285037102525,
+       "original name":"DICKEYA_DADANTII_ECH703",
+       "unconstrained":0.1465628544182676
+      },
+     "DICKEYA_ZEAE":{
+       "MG94xREV with separate rates for branch sets":0.008425938027064005,
+       "Nucleotide GTR":0.01211369074933193,
+       "original name":"DICKEYA_ZEAE",
+       "unconstrained":0.009471153964815
+      },
+     "EDWARDSIELLA_ICTALURI":{
+       "MG94xREV with separate rates for branch sets":0.0505604482624212,
+       "Nucleotide GTR":0.04605640822532878,
+       "original name":"EDWARDSIELLA_ICTALURI",
+       "unconstrained":0.05484580948629458
+      },
+     "EDWARDSIELLA_TARDA":{
+       "MG94xREV with separate rates for branch sets":0.02392966340674097,
+       "Nucleotide GTR":0.02451304155772029,
+       "original name":"EDWARDSIELLA_TARDA",
+       "unconstrained":0.0247805490144039
+      },
+     "ENTEROBACTER_CLOACAE":{
+       "MG94xREV with separate rates for branch sets":0.05154499419227795,
+       "Nucleotide GTR":0.04729284629385981,
+       "original name":"ENTEROBACTER_CLOACAE",
+       "unconstrained":0.05613382279173889
+      },
+     "ENTEROBACTER_SP_638":{
+       "MG94xREV with separate rates for branch sets":0.03556502113855348,
+       "Nucleotide GTR":0.03121677405905121,
+       "original name":"ENTEROBACTER_SP_638",
+       "unconstrained":0.04055763669543055
+      },
+     "ERWINIA_AMYLOVORA_ATCC_49946":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"ERWINIA_AMYLOVORA_ATCC_49946",
+       "unconstrained":0
+      },
+     "ERWINIA_AMYLOVORA_CFBP1430":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"ERWINIA_AMYLOVORA_CFBP1430",
+       "unconstrained":0
+      },
+     "ERWINIA_BILLINGIAE":{
+       "MG94xREV with separate rates for branch sets":0.1444115765607187,
+       "Nucleotide GTR":0.1133445462735962,
+       "original name":"ERWINIA_BILLINGIAE",
+       "unconstrained":0.18661132946771
+      },
+     "ERWINIA_PYRIFOLIAE":{
+       "MG94xREV with separate rates for branch sets":0.02083205564426537,
+       "Nucleotide GTR":0.01983115572767001,
+       "original name":"ERWINIA_PYRIFOLIAE",
+       "unconstrained":0.02416459871957979
+      },
+     "ERWINIA_TASMANIENSIS":{
+       "MG94xREV with separate rates for branch sets":0.03029570297872,
+       "Nucleotide GTR":0.02821964452189364,
+       "original name":"ERWINIA_TASMANIENSIS",
+       "unconstrained":0.02738671168219861
+      },
+     "ESCHERICHIA_COLI":{
+       "MG94xREV with separate rates for branch sets":0.06197414456343106,
+       "Nucleotide GTR":0.05123174989569492,
+       "original name":"ESCHERICHIA_COLI",
+       "unconstrained":0.0760283264644879
+      },
+     "HAEMOPHILUS_INFLUENZAE":{
+       "MG94xREV with separate rates for branch sets":0.3376205385824684,
+       "Nucleotide GTR":0.1686035765680203,
+       "original name":"HAEMOPHILUS_INFLUENZAE",
+       "unconstrained":0.5934821906520236
+      },
+     "HAMILTONELLA_DEFENSA":{
+       "MG94xREV with separate rates for branch sets":0.5659654408036056,
+       "Nucleotide GTR":0.4280133511410831,
+       "original name":"HAMILTONELLA_DEFENSA",
+       "unconstrained":1.414609922625179
+      },
+     "ISHIKAWAELLA_CAPSULATA":{
+       "MG94xREV with separate rates for branch sets":0.4260477941029299,
+       "Nucleotide GTR":0.363116032445485,
+       "original name":"ISHIKAWAELLA_CAPSULATA",
+       "unconstrained":0.823741388817517
+      },
+     "KLEBSIELLA_PNEUMONIAE":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"KLEBSIELLA_PNEUMONIAE",
+       "unconstrained":0
+      },
+     "KLEBSIELLA_VARIICOLA":{
+       "MG94xREV with separate rates for branch sets":0.02046367072584305,
+       "Nucleotide GTR":0.01961369291897304,
+       "original name":"KLEBSIELLA_VARIICOLA",
+       "unconstrained":0.0215854663084395
+      },
+     "Node10":{
+       "MG94xREV with separate rates for branch sets":0.08220884175232655,
+       "Nucleotide GTR":0.06047295402060205,
+       "unconstrained":0.08537140383896634
+      },
+     "Node13":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0.003642596521500419,
+       "unconstrained":0
+      },
+     "Node14":{
+       "MG94xREV with separate rates for branch sets":0.1932935486989479,
+       "Nucleotide GTR":0.125077941966123,
+       "unconstrained":0.2496511097264889
+      },
+     "Node17":{
+       "MG94xREV with separate rates for branch sets":0.0653408588712367,
+       "Nucleotide GTR":0.05163049891656436,
+       "unconstrained":0.08388369034656577
+      },
+     "Node2":{
+       "MG94xREV with separate rates for branch sets":0.4548529577455353,
+       "Nucleotide GTR":0.2300143605247191,
+       "unconstrained":0.8318372947523016
+      },
+     "Node20":{
+       "MG94xREV with separate rates for branch sets":0.1503934598346642,
+       "Nucleotide GTR":0.08357664931019683,
+       "unconstrained":0.2198683827333882
+      },
+     "Node21":{
+       "MG94xREV with separate rates for branch sets":0.01223658282997635,
+       "Nucleotide GTR":0.02964935882116522,
+       "unconstrained":0.0160451177240981
+      },
+     "Node23":{
+       "MG94xREV with separate rates for branch sets":0.1695633621257762,
+       "Nucleotide GTR":0.1022014778513104,
+       "unconstrained":0.2419647466366691
+      },
+     "Node25":{
+       "MG94xREV with separate rates for branch sets":0.07132599948161326,
+       "Nucleotide GTR":0.07306031231275847,
+       "unconstrained":0.08988408603761536
+      },
+     "Node28":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0.0001056028056767046,
+       "unconstrained":0
+      },
+     "Node29":{
+       "MG94xREV with separate rates for branch sets":0.02708153418243813,
+       "Nucleotide GTR":0.007783223325817725,
+       "unconstrained":0.02982845146314702
+      },
+     "Node30":{
+       "MG94xREV with separate rates for branch sets":0.006797269541988481,
+       "Nucleotide GTR":0.04449346685677143,
+       "unconstrained":0.02023105295417355
+      },
+     "Node31":{
+       "MG94xREV with separate rates for branch sets":0.1019253810714865,
+       "Nucleotide GTR":0.08076932136528754,
+       "unconstrained":0.09854843679222461
+      },
+     "Node33":{
+       "MG94xREV with separate rates for branch sets":0.02767137310699594,
+       "Nucleotide GTR":0.02397451022371479,
+       "unconstrained":0.02127886823555061
+      },
+     "Node36":{
+       "MG94xREV with separate rates for branch sets":0.06008751198167426,
+       "Nucleotide GTR":0.04645787744382666,
+       "unconstrained":0.07724833914168913
+      },
+     "Node38":{
+       "MG94xREV with separate rates for branch sets":0.1127507173815222,
+       "Nucleotide GTR":0.09221222331204179,
+       "unconstrained":0.1440111212932159
+      },
+     "Node4":{
+       "MG94xREV with separate rates for branch sets":0.08728030798098091,
+       "Nucleotide GTR":0.04473626959098232,
+       "unconstrained":0.229858656670618
+      },
+     "Node41":{
+       "MG94xREV with separate rates for branch sets":0.1673027658718717,
+       "Nucleotide GTR":0.1054411308941454,
+       "unconstrained":0.2307374182223547
+      },
+     "Node42":{
+       "MG94xREV with separate rates for branch sets":0.08270854625005422,
+       "Nucleotide GTR":0.06454094133161538,
+       "unconstrained":0.100770304442776
+      },
+     "Node44":{
+       "MG94xREV with separate rates for branch sets":0.07946133829284123,
+       "Nucleotide GTR":0.05756282939499831,
+       "unconstrained":0.09934685703968629
+      },
+     "Node46":{
+       "MG94xREV with separate rates for branch sets":0.05213972288445531,
+       "Nucleotide GTR":0.05527875389369042,
+       "unconstrained":0.06933938484446862
+      },
+     "Node48":{
+       "MG94xREV with separate rates for branch sets":0.01864752713667931,
+       "Nucleotide GTR":0.01721796827542613,
+       "unconstrained":0.02289398581025464
+      },
+     "Node5":{
+       "MG94xREV with separate rates for branch sets":0.5763917407822029,
+       "Nucleotide GTR":0.2500570194965399,
+       "unconstrained":1.281306075400556
+      },
+     "Node50":{
+       "MG94xREV with separate rates for branch sets":0.03243852025081894,
+       "Nucleotide GTR":0.0307366776611677,
+       "unconstrained":0.03201228667781469
+      },
+     "Node53":{
+       "MG94xREV with separate rates for branch sets":0.04266545570954534,
+       "Nucleotide GTR":0.04156067769026007,
+       "unconstrained":0.06907160789084485
+      },
+     "Node54":{
+       "MG94xREV with separate rates for branch sets":0.08478850075770389,
+       "Nucleotide GTR":0.0803791873598125,
+       "unconstrained":0.09415354974378988
+      },
+     "Node57":{
+       "MG94xREV with separate rates for branch sets":0.0553391452653664,
+       "Nucleotide GTR":0.02935226312828976,
+       "unconstrained":0.067173930837265
+      },
+     "Node58":{
+       "MG94xREV with separate rates for branch sets":0.04098811335266588,
+       "Nucleotide GTR":0.03005911511858586,
+       "unconstrained":0.05427042776593203
+      },
+     "Node60":{
+       "MG94xREV with separate rates for branch sets":0.008534546853736412,
+       "Nucleotide GTR":0.01388204465298091,
+       "unconstrained":0.006214181182616752
+      },
+     "Node62":{
+       "MG94xREV with separate rates for branch sets":0.02119907839920015,
+       "Nucleotide GTR":0.02291176181580921,
+       "unconstrained":0.02469944430672617
+      },
+     "Node65":{
+       "MG94xREV with separate rates for branch sets":0.0269126996604813,
+       "Nucleotide GTR":0.02823547956447882,
+       "unconstrained":0.03353087891210743
+      },
+     "Node66":{
+       "MG94xREV with separate rates for branch sets":0.09574163450167904,
+       "Nucleotide GTR":0.08371205158876797,
+       "unconstrained":0.1130534012382636
+      },
+     "Node69":{
+       "MG94xREV with separate rates for branch sets":0.05321185619391456,
+       "Nucleotide GTR":0.04758832041743842,
+       "unconstrained":0.06194575481428351
+      },
+     "Node73":{
+       "MG94xREV with separate rates for branch sets":0.1783945904601572,
+       "Nucleotide GTR":0.127061679548048,
+       "unconstrained":0.2445478858494858
+      },
+     "Node76":{
+       "MG94xREV with separate rates for branch sets":0.1017448873557867,
+       "Nucleotide GTR":0.07111119598948623,
+       "unconstrained":0.1377552055983205
+      },
+     "Node78":{
+       "MG94xREV with separate rates for branch sets":0.2866038236048385,
+       "Nucleotide GTR":0.2771703384300402,
+       "unconstrained":0.4501791573626289
+      },
+     "Node8":{
+       "MG94xREV with separate rates for branch sets":0.4482928767807399,
+       "Nucleotide GTR":0.1797792960558426,
+       "unconstrained":0.561008671492486
+      },
+     "Node80":{
+       "MG94xREV with separate rates for branch sets":0.2640682794527641,
+       "Nucleotide GTR":0.2214494591811805,
+       "unconstrained":0.4563180773023325
+      },
+     "Node83":{
+       "MG94xREV with separate rates for branch sets":0.1580225122056756,
+       "Nucleotide GTR":0.1264583985565474,
+       "unconstrained":0.296350930460793
+      },
+     "Node85":{
+       "MG94xREV with separate rates for branch sets":0.190762725393723,
+       "Nucleotide GTR":0.145750292946528,
+       "unconstrained":0.3291016695545395
+      },
+     "Node88":{
+       "MG94xREV with separate rates for branch sets":0.06566108287569783,
+       "Nucleotide GTR":0.05132832680891518,
+       "unconstrained":0.1954990426535893
+      },
+     "Node9":{
+       "MG94xREV with separate rates for branch sets":0.06477645130939792,
+       "Nucleotide GTR":0.04795794032430637,
+       "unconstrained":0.09508529119122965
+      },
+     "Node91":{
+       "MG94xREV with separate rates for branch sets":0.1693194041641514,
+       "Nucleotide GTR":0.1367246858056541,
+       "unconstrained":0.3727919932720827
+      },
+     "Node94":{
+       "MG94xREV with separate rates for branch sets":0.3112894762445929,
+       "Nucleotide GTR":0.2274876065024677,
+       "unconstrained":0.7395824199377248
+      },
+     "PANTOEA_ANANATIS":{
+       "MG94xREV with separate rates for branch sets":0.1327967403328395,
+       "Nucleotide GTR":0.1267108757988228,
+       "original name":"PANTOEA_ANANATIS",
+       "unconstrained":0.1759245785559555
+      },
+     "PASTEURELLA_MULTOCIDA":{
+       "MG94xREV with separate rates for branch sets":0.2450271808123958,
+       "Nucleotide GTR":0.18559524923197,
+       "original name":"PASTEURELLA_MULTOCIDA",
+       "unconstrained":0.2746853667253493
+      },
+     "PECTOBACTERIUM_ATROSEPTICUM":{
+       "MG94xREV with separate rates for branch sets":0.01146806213132332,
+       "Nucleotide GTR":0.01190785663567921,
+       "original name":"PECTOBACTERIUM_ATROSEPTICUM",
+       "unconstrained":0.01257604979943627
+      },
+     "PECTOBACTERIUM_CAROTOVORUM":{
+       "MG94xREV with separate rates for branch sets":0.01087680145979503,
+       "Nucleotide GTR":0.01263134242474779,
+       "original name":"PECTOBACTERIUM_CAROTOVORUM",
+       "unconstrained":0.01864878740122326
+      },
+     "PECTOBACTERIUM_WASABIAE":{
+       "MG94xREV with separate rates for branch sets":0.05363040526909268,
+       "Nucleotide GTR":0.04945538546506823,
+       "original name":"PECTOBACTERIUM_WASABIAE",
+       "unconstrained":0.05771221994811584
+      },
+     "PHOTORHABDUS_ASYMBIOTICA":{
+       "MG94xREV with separate rates for branch sets":0.0616852903381849,
+       "Nucleotide GTR":0.04320371225187857,
+       "original name":"PHOTORHABDUS_ASYMBIOTICA",
+       "unconstrained":0.07032932088846107
+      },
+     "PHOTORHABDUS_LUMINESCENS":{
+       "MG94xREV with separate rates for branch sets":0.01138527478014216,
+       "Nucleotide GTR":0.02353629262434647,
+       "original name":"PHOTORHABDUS_LUMINESCENS",
+       "unconstrained":0.01090568813864005
+      },
+     "PROTEUS_MIRABILIS":{
+       "MG94xREV with separate rates for branch sets":0.2401045900592027,
+       "Nucleotide GTR":0.1509189636182133,
+       "original name":"PROTEUS_MIRABILIS",
+       "unconstrained":0.337740192541036
+      },
+     "PSEUDOMONAS_AERUGINOSA":{
+       "MG94xREV with separate rates for branch sets":1.175683764203516,
+       "Nucleotide GTR":0.3551682128667615,
+       "original name":"PSEUDOMONAS_AERUGINOSA",
+       "unconstrained":2.195246780008801
+      },
+     "REGIELLA_INSECTICOLA":{
+       "MG94xREV with separate rates for branch sets":0.3463922626158864,
+       "Nucleotide GTR":0.280916025953993,
+       "original name":"REGIELLA_INSECTICOLA",
+       "unconstrained":0.6185887027439061
+      },
+     "RIESIA_PEDICULICOLA":{
+       "MG94xREV with separate rates for branch sets":0.4882880047652504,
+       "Nucleotide GTR":0.3893830909438071,
+       "original name":"RIESIA_PEDICULICOLA",
+       "unconstrained":1.18355881760015
+      },
+     "SALMONELLA_ENTERICA":{
+       "MG94xREV with separate rates for branch sets":0.05805556410349422,
+       "Nucleotide GTR":0.05220062600506672,
+       "original name":"SALMONELLA_ENTERICA",
+       "unconstrained":0.06334362203219381
+      },
+     "SERRATIA_PROTEAMACULANS":{
+       "MG94xREV with separate rates for branch sets":0.1124015212972617,
+       "Nucleotide GTR":0.0836034044348081,
+       "original name":"SERRATIA_PROTEAMACULANS",
+       "unconstrained":0.140844815483039
+      },
+     "SODALIS_GLOSSINIDIUS":{
+       "MG94xREV with separate rates for branch sets":0.08549927921161844,
+       "Nucleotide GTR":0.1030206326107134,
+       "original name":"SODALIS_GLOSSINIDIUS",
+       "unconstrained":0.1204944272383003
+      },
+     "VIBRIO_CHOLERAE":{
+       "MG94xREV with separate rates for branch sets":0.7793061431385567,
+       "Nucleotide GTR":0.3131117298974525,
+       "original name":"VIBRIO_CHOLERAE",
+       "unconstrained":1.275081357474162
+      },
+     "WIGGLESWORTHIA_GLOSSINIDIA":{
+       "MG94xREV with separate rates for branch sets":0.273126002959253,
+       "Nucleotide GTR":0.2337564851951169,
+       "original name":"WIGGLESWORTHIA_GLOSSINIDIA",
+       "unconstrained":0.5041527160351508
+      },
+     "XANTHOMONAS_AXONOPODIS":{
+       "MG94xREV with separate rates for branch sets":1.415190140744152,
+       "Nucleotide GTR":0.5644544005427782,
+       "original name":"XANTHOMONAS_AXONOPODIS",
+       "unconstrained":4.201933187416452
+      },
+     "XENORHABDUS_BOVIENII":{
+       "MG94xREV with separate rates for branch sets":0.1306692830732632,
+       "Nucleotide GTR":0.09831783027613701,
+       "original name":"XENORHABDUS_BOVIENII",
+       "unconstrained":0.1641867024123371
+      },
+     "XENORHABDUS_NEMATOPHILA":{
+       "MG94xREV with separate rates for branch sets":0.1022906210741868,
+       "Nucleotide GTR":0.0890281327853478,
+       "original name":"XENORHABDUS_NEMATOPHILA",
+       "unconstrained":0.1394666917529811
+      },
+     "YERSINIA_PESTIS":{
+       "MG94xREV with separate rates for branch sets":0.03063587848360019,
+       "Nucleotide GTR":0.05018925241683307,
+       "original name":"YERSINIA_PESTIS",
+       "unconstrained":0
+      }
+    },
+   "attributes":{
+     "MG94xREV with separate rates for branch sets":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":0
+      },
+     "unconstrained":{
+       "attribute type":"branch length",
+       "display order":0
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86] 
+      ],
+     "name":"busted.filter.default"
+    }
+  },
+ "fits":{
+   "MG94xREV with separate rates for branch sets":{
+     "AIC-c":14977.25678231263,
+     "Equilibrium frequencies":      [
+[0.03041690640321706],
+      [0.0272748431768617],
+      [0.03226394584607681],
+      [0.03632077053719168],
+      [0.01223839191294568],
+      [0.01097416731792492],
+      [0.01298155731841886],
+      [0.01461384068852278],
+      [0.01066724715000632],
+      [0.009565321643442183],
+      [0.01131500619465101],
+      [0.01273773969196004],
+      [0.02365788067665272],
+      [0.02121402409563791],
+      [0.02509448432611608],
+      [0.02824983067186882],
+      [0.01970715112657914],
+      [0.01767140449178978],
+      [0.02090385025681481],
+      [0.02353227197143673],
+      [0.007929269195805383],
+      [0.007110176523403389],
+      [0.008410766977452119],
+      [0.009468325383610003],
+      [0.00691132256854073],
+      [0.006197383675471878],
+      [0.007331006451483915],
+      [0.008252797236931772],
+      [0.01532797003248366],
+      [0.01374459234327033],
+      [0.01625874730659774],
+      [0.01830310009080698],
+      [0.03157173074787142],
+      [0.02831037428839967],
+      [0.03348889586642861],
+      [0.03769974410790686],
+      [0.01270304116863054],
+      [0.01139081835445866],
+      [0.01347442198467074],
+      [0.0151686774879095],
+      [0.01107224549322933],
+      [0.009928483700485829],
+      [0.01174459770012101],
+      [0.01322134744934163],
+      [0.02455608827824618],
+      [0.0220194469466329],
+      [0.02604723478114859],
+      [0.02932237867394924],
+      [0.01568830853965395],
+      [0.02089146584237115],
+      [0.007039441697775863],
+      [0.006312268112157217],
+      [0.007466905500279081],
+      [0.008405784047381433],
+      [0.005501909442715171],
+      [0.00650831636899648],
+      [0.007326663221836317],
+      [0.01360785574615174],
+      [0.01220216568146424],
+      [0.01443418061833631],
+      [0.0162491148674774] 
+      ],
+     "Log Likelihood":-7375.74799483643,
+     "Rate Distributions":{
+       "non-synonymous/synonymous rate ratio for *background*":        [
+[0.09168858297703555, 1] 
+        ],
+       "non-synonymous/synonymous rate ratio for *test*":        [
+[0.2773228951693836, 1] 
+        ]
+      },
+     "display order":1,
+     "estimated parameters":110
+    },
+   "Nucleotide GTR":{
+     "AIC-c":16198.31352019976,
+     "Equilibrium frequencies":      [
+[0.3075392086617307],
+      [0.1993471857336199],
+      [0.2392325451795239],
+      [0.2538810604251254] 
+      ],
+     "Log Likelihood":-7993.296902250684,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.6046788964118329,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.4858229270752997,
+       "Substitution rate from nucleotide C to nucleotide G":0.7622444148045217,
+       "Substitution rate from nucleotide C to nucleotide T":1.532298730945603,
+       "Substitution rate from nucleotide G to nucleotide T":0.1906515044509925
+      },
+     "display order":0,
+     "estimated parameters":105
+    },
+   "Shared distribution model":{
+     "AIC-c":14789.73151239329,
+     "Log Likelihood":-7273.546919042307,
+     "Rate Distributions":{
+       "Synonymous site-to-site rates":{
+         "0":{
+           "proportion":0.3978142944250097,
+           "rate":0.4141797846463853
+          },
+         "1":{
+           "proportion":0.4932614242724649,
+           "rate":1.0485082009628
+          },
+         "2":{
+           "proportion":0.1089242813025254,
+           "rate":2.919869737347091
+          }
+        },
+       "Test":{
+         "0":{
+           "omega":0.005086925892742888,
+           "proportion":0.4736457061544258
+          },
+         "1":{
+           "omega":0.1484482169273796,
+           "proportion":0.5245448574836682
+          },
+         "2":{
+           "omega":13.42503780828002,
+           "proportion":0.001809436361906006
+          }
+        }
+      },
+     "display order":3,
+     "estimated parameters":118
+    },
+   "Unconstrained model":{
+     "AIC-c":14792.37440374246,
+     "Log Likelihood":-7269.578115264509,
+     "Rate Distributions":{
+       "Background":{
+         "0":{
+           "omega":0.0009418214111360699,
+           "proportion":0.4765271894606868
+          },
+         "1":{
+           "omega":0.0009628454334473737,
+           "proportion":0.002357952331465909
+          },
+         "2":{
+           "omega":0.1482328102551939,
+           "proportion":0.5211148582078473
+          }
+        },
+       "Synonymous site-to-site rates":{
+         "0":{
+           "proportion":0.4220960635521868,
+           "rate":0.4459493840438769
+          },
+         "1":{
+           "proportion":0.4721570419498022,
+           "rate":1.090185543967778
+          },
+         "2":{
+           "proportion":0.105746894498011,
+           "rate":2.808855430178919
+          }
+        },
+       "Test":{
+         "0":{
+           "omega":0.04124310424982491,
+           "proportion":0.6425548429200193
+          },
+         "1":{
+           "omega":0.4256113122543926,
+           "proportion":0.3574451570799807
+          },
+         "2":{
+           "omega":1.002363924623324,
+           "proportion":0
+          }
+        }
+      },
+     "display order":2,
+     "estimated parameters":123
+    }
+  },
+ "input":{
+   "file name":"/home/agselberg/BUSTED-PH/busted-ph_practice/compare_methods/datasets/TraitRELAX_on_ProteoBacteria_HouseKeeping_Genes/COG5007_yrbA.nex",
+   "number of sequences":50,
+   "number of sites":87,
+   "partition count":1,
+   "trees":{
+     "0":"(PSEUDOMONAS_AERUGINOSA,(VIBRIO_CHOLERAE,((HAEMOPHILUS_INFLUENZAE,PASTEURELLA_MULTOCIDA)Node5,(((PROTEUS_MIRABILIS,ARSENOPHONUS_NASONIAE)Node10,((XENORHABDUS_BOVIENII,XENORHABDUS_NEMATOPHILA)Node14,(PHOTORHABDUS_ASYMBIOTICA,PHOTORHABDUS_LUMINESCENS)Node17)Node13)Node9,((SERRATIA_PROTEAMACULANS,(YERSINIA_PESTIS,(HAMILTONELLA_DEFENSA,REGIELLA_INSECTICOLA)Node25)Node23)Node21,((((PECTOBACTERIUM_CAROTOVORUM,(PECTOBACTERIUM_ATROSEPTICUM,PECTOBACTERIUM_WASABIAE)Node33)Node31,(DICKEYA_DADANTII_ECH703,(DICKEYA_DADANTII_ECH586,DICKEYA_ZEAE)Node38)Node36)Node30,((PANTOEA_ANANATIS,(ERWINIA_BILLINGIAE,(ERWINIA_TASMANIENSIS,(ERWINIA_PYRIFOLIAE,(ERWINIA_AMYLOVORA_ATCC_49946,ERWINIA_AMYLOVORA_CFBP1430)Node50)Node48)Node46)Node44)Node42,((CRONOBACTER_TURICENSIS,CRONOBACTER_SAKAZAKII)Node54,((ESCHERICHIA_COLI,(CITROBACTER_RODENTIUM,(SALMONELLA_ENTERICA,CITROBACTER_KOSERI)Node62)Node60)Node58,((KLEBSIELLA_VARIICOLA,KLEBSIELLA_PNEUMONIAE)Node66,(ENTEROBACTER_SP_638,ENTEROBACTER_CLOACAE)Node69)Node65)Node57)Node53)Node41)Node29,(EDWARDSIELLA_TARDA,EDWARDSIELLA_ICTALURI)Node73,(SODALIS_GLOSSINIDIUS,(BAUMANNIA_CICADELLINICOLA,(ISHIKAWAELLA_CAPSULATA,((RIESIA_PEDICULICOLA,WIGGLESWORTHIA_GLOSSINIDIA)Node91,(BUCHNERA_APHIDICOLA_STR_SG,BUCHNERA_APHIDICOLA_STR_APS)Node85,(BUCHNERA_APHIDICOLA_STR_CC,BUCHNERA_APHIDICOLA_STR_BP)Node88)Node83,(BLOCHMANNIA_PENNSYLVANICUS,BLOCHMANNIA_FLORIDANUS)Node94)Node80)Node78)Node76)Node28)Node20)Node8)Node4)Node2,XANTHOMONAS_AXONOPODIS)"
+    }
+  },
+ "nuisance":0,
+ "test results":{
+   "LRT":0,
+   "p-value":0.5
+  },
+ "test results background":{
+   "LRT":0,
+   "p-value":0.5
+  },
+ "test results shared distributions":{
+   "LRT":7.937607555597424,
+   "p-value":0.1597078852225182
+  },
+ "tested":{
+   "0":{
+     "ARSENOPHONUS_NASONIAE":"test",
+     "BAUMANNIA_CICADELLINICOLA":"test",
+     "BLOCHMANNIA_FLORIDANUS":"test",
+     "BLOCHMANNIA_PENNSYLVANICUS":"test",
+     "BUCHNERA_APHIDICOLA_STR_APS":"test",
+     "BUCHNERA_APHIDICOLA_STR_BP":"test",
+     "BUCHNERA_APHIDICOLA_STR_CC":"test",
+     "BUCHNERA_APHIDICOLA_STR_SG":"test",
+     "CITROBACTER_KOSERI":"background",
+     "CITROBACTER_RODENTIUM":"background",
+     "CRONOBACTER_SAKAZAKII":"background",
+     "CRONOBACTER_TURICENSIS":"background",
+     "DICKEYA_DADANTII_ECH586":"background",
+     "DICKEYA_DADANTII_ECH703":"background",
+     "DICKEYA_ZEAE":"background",
+     "EDWARDSIELLA_ICTALURI":"background",
+     "EDWARDSIELLA_TARDA":"background",
+     "ENTEROBACTER_CLOACAE":"background",
+     "ENTEROBACTER_SP_638":"background",
+     "ERWINIA_AMYLOVORA_ATCC_49946":"background",
+     "ERWINIA_AMYLOVORA_CFBP1430":"background",
+     "ERWINIA_BILLINGIAE":"background",
+     "ERWINIA_PYRIFOLIAE":"background",
+     "ERWINIA_TASMANIENSIS":"background",
+     "ESCHERICHIA_COLI":"background",
+     "HAEMOPHILUS_INFLUENZAE":"background",
+     "HAMILTONELLA_DEFENSA":"test",
+     "ISHIKAWAELLA_CAPSULATA":"test",
+     "KLEBSIELLA_PNEUMONIAE":"background",
+     "KLEBSIELLA_VARIICOLA":"background",
+     "Node10":"background",
+     "Node13":"background",
+     "Node14":"background",
+     "Node17":"background",
+     "Node2":"background",
+     "Node20":"background",
+     "Node21":"background",
+     "Node23":"background",
+     "Node25":"test",
+     "Node28":"background",
+     "Node29":"background",
+     "Node30":"background",
+     "Node31":"background",
+     "Node33":"background",
+     "Node36":"background",
+     "Node38":"background",
+     "Node4":"background",
+     "Node41":"background",
+     "Node42":"background",
+     "Node44":"background",
+     "Node46":"background",
+     "Node48":"background",
+     "Node5":"background",
+     "Node50":"background",
+     "Node53":"background",
+     "Node54":"background",
+     "Node57":"background",
+     "Node58":"background",
+     "Node60":"background",
+     "Node62":"background",
+     "Node65":"background",
+     "Node66":"background",
+     "Node69":"background",
+     "Node73":"background",
+     "Node76":"test",
+     "Node78":"test",
+     "Node8":"background",
+     "Node80":"test",
+     "Node83":"test",
+     "Node85":"test",
+     "Node88":"test",
+     "Node9":"background",
+     "Node91":"test",
+     "Node94":"test",
+     "PANTOEA_ANANATIS":"test",
+     "PASTEURELLA_MULTOCIDA":"background",
+     "PECTOBACTERIUM_ATROSEPTICUM":"background",
+     "PECTOBACTERIUM_CAROTOVORUM":"background",
+     "PECTOBACTERIUM_WASABIAE":"background",
+     "PHOTORHABDUS_ASYMBIOTICA":"background",
+     "PHOTORHABDUS_LUMINESCENS":"background",
+     "PROTEUS_MIRABILIS":"background",
+     "PSEUDOMONAS_AERUGINOSA":"background",
+     "REGIELLA_INSECTICOLA":"test",
+     "RIESIA_PEDICULICOLA":"test",
+     "SALMONELLA_ENTERICA":"background",
+     "SERRATIA_PROTEAMACULANS":"background",
+     "SODALIS_GLOSSINIDIUS":"test",
+     "VIBRIO_CHOLERAE":"background",
+     "WIGGLESWORTHIA_GLOSSINIDIA":"test",
+     "XANTHOMONAS_AXONOPODIS":"background",
+     "XENORHABDUS_BOVIENII":"background",
+     "XENORHABDUS_NEMATOPHILA":"background",
+     "YERSINIA_PESTIS":"background"
+    }
+  },
+ "timers":{
+   "Compare distributions":{
+     "order":5,
+     "timer":729
+    },
+   "Overall":{
+     "order":0,
+     "timer":2187
+    },
+   "Preliminary model fitting":{
+     "order":1,
+     "timer":21
+    },
+   "Unconstrained BUSTED model fitting":{
+     "order":2,
+     "timer":1436
+    }
+  }
+}

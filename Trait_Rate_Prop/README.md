@@ -1,3 +1,8 @@
+## COMPARING BUSTED-PH TO TRAITRATEPROP 
+
+Note, this data only consisted of one gene but I could not find another paper with published data using trait rate prop. So I did ## NOT ## include this in the paper. 
+
+Data from:
 What snakes and caecilians have in common? Molecular interaction units and the independent origins of similar morphotypes in Tetrapoda
 
 Anieli G. Pereira, Mariana B. Grizante, and Tiana Kohlsdorf
